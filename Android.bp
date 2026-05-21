@@ -1,5 +1,6 @@
 android_app_import {
     name: "talkback",
+    product_specific: true,
 
     apk: "prebuilt/TalkBack.apk",
     default_dev_cert: true,
