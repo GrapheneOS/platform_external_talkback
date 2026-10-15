@@ -3,7 +3,7 @@ android_app_import {
     product_specific: true,
 
     apk: "prebuilt/TalkBack.apk",
-    default_dev_cert: true,
+    preprocessed: true,
 
     optional_uses_libs: ["androidx.window.extensions", "androidx.window.sidecar"],
 }
